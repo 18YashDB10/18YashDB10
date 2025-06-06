@@ -79,7 +79,6 @@ Vidyavardhaka College of Engineering, Mysore
 
 - [GitHub](https://github.com/18YashDB10)
 - [LinkedIn](https://linkedin.com/in/yash-deepak-bambore-97543725a)
-- [Her Safety API Docs](https://yashdb18-hersafety.hf.space/docs#/)
 
 ---
 
