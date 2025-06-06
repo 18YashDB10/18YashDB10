@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yash Deepak Bambore
-![My portfolio](https://my-portfolio-five-sigma-55.vercel.app/)
+### [My portfolio](https://my-portfolio-five-sigma-55.vercel.app/)
 
 🎓 **Computer Science Engineering Student** at Vidyavardhaka College of Engineering, Mysore  
 💡 Passionate about building AI-powered applications that solve real-world problems  
